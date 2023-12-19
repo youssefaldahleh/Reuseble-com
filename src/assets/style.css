@@ -1,0 +1,20 @@
+.label {
+    display: block;
+    font-size: 20PX;
+    margin-left: 10px;
+}
+
+p {
+    color: #9ca8b3;
+    font-size: 15px;
+}
+
+.error {
+    color: red;
+}
+
+.label-inline {
+    font-size: 20PX;
+    margin-left: 10px;
+
+}
